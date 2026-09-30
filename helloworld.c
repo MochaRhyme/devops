@@ -1,6 +1,6 @@
 #include <stdio.h>
 int main()
 {
-    printf("My name is Jeonhyeon Park.");
+    printf("The world says hello!");
     return 0;
 }
