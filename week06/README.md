@@ -2,7 +2,7 @@
 ## 내 이미지 주소
 ghcr.io/mocharhyme/guestbook:v2
 ## 친구 이미지를 실행한 결과 캡처
-같은 디렉터리에 있는 'result-image.png'에 있음
+![image](./result-image.png)
 ## Dockerfile의 각 줄이 하는 일을 본인의 언어로 설명
 ```
 # 내 패키지의 기반이 되는 이미지
