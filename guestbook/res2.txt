@@ -1,0 +1,5 @@
+828bc3a9b72d guestbook-nginx-1
+32afff1341d6 guestbook-web-3
+4cb6cebdbcb3 guestbook-web-1
+31f8a761e431 guestbook-web-2
+9407a8202ede guestbook-redis-1
