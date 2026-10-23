@@ -1,4 +1,4 @@
-# week07
+# 7주차: compose + nginx + healthcheck
 ## `docker compose ps` 결과
 ```
 NAME                IMAGE            COMMAND                  SERVICE   CREATED         STATUS                   PORTS
